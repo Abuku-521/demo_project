@@ -6,3 +6,5 @@
 ## How to safely store a password
 - *GitHub.* ms02
 - **GitHub.** ms02
+
+- don't put octocat in remote repo
